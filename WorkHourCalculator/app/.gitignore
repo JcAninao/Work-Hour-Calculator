@@ -1,0 +1,22 @@
+# Android build files
+/build/
+/app/build/
+/*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+
+# APKs
+*.apk
+
+# Logs
+*.log
+
+# IntelliJ
+*.iws
+*.ipr
+*.iml
+
+# Mac/Linux/Windows system files
+Thumbs.db
