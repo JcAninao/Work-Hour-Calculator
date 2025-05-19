@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blueWhite">#A2B1C8</color>
+    <color name="darkShadow">#83212124</color>
+    <color name="darkWhite">#A6A5A5</color>
+    <color name="lightGray">#2B2D30</color>
+    <color name="lightRed">#C78686</color>
+    <color name="lightlightGray">#36383A</color>
+    <string name="app_name">Work Hour Calculator</string>
+    <style name="Base.Theme.WorkHourCalculator" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/blueWhite</item>
+    </style>
+    <style name="Theme.WorkHourCalculator" parent="Base.Theme.WorkHourCalculator"/>
+</resources>
